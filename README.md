@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amadou DIALLO... @Dia770 (it's SEVEN SEVEN AND ZERO, not the letter O)
+- 👋 Hi, I’m Amadou DIALLO... @Dia770 (it's seven seven and ZERO, not the letter O)
 - 👀 I’m interested in Web and Mobile Development with Python, PHP or JavaScript
 - 🌱 I’m currently learning React JS, Flutter and LARAVEL
 - 💞️ I’m looking to collaborate on Web or Mobile Development projects
