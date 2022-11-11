@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amadou DIALLO... @Dia770 (it's seven seven and ZERO, not the letter O)
-- 👀 I’m interested in Web and Mobile Development with Python, PHP or JavaScript
-- 🌱 I’m currently learning React JS, Flutter and LARAVEL
+- 👀 I’m interested in Web and Mobile Development with Python(Flask), PHP or JavaScript
+- 🌱 I’m currently learning React JS, Flutter, Django and Laravel
 - 💞️ I’m looking to collaborate on Web or Mobile Development projects
 - 📫 How to reach me : 07amadoudiallo07@gmail.com, (+223) 90442359
 
